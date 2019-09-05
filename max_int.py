@@ -7,3 +7,4 @@ while True:
     if num_int > max_int:
         max_int = num_int
 print("The maximum is", max_int)    # Do not change this line
+print ("lalala")
